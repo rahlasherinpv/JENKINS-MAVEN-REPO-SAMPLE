@@ -6,5 +6,10 @@ public class HelloWorld {
 	{
 		System.out.println(" Welcome to Hello WORLD ");
 	}
+	public int addNumers(int a,int b) {
+		
+		return a+b;
+		
+	}
 	
 }
