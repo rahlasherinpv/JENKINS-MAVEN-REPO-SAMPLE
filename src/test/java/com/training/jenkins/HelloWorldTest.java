@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 class HelloWorldTest {
 
 	@Test
-	void test() {
+	public void test() {
 		HelloWorld hello=new HelloWorld();
 		assertEquals(5, hello.addNumers(1, 4));
 	}
